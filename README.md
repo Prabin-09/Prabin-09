@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Prabin Sah</h1>
+
+<h3 align="center">Hi 👋, I'm Prabin Sah</h3>
 <p align="center">A Computer Engineering Student Learning Full-Stack & AI 🚀</p>
 
 ---
