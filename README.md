@@ -9,7 +9,7 @@
 - 🎓 Computer Engineering @ Tribhuvan University
 - 🌱 Currently learning **JavaScript, React**
 - 🚀 Building practical projects, documenting my journey publicly
-- 📚 Interested in **DSA, Full-Stack, AI**
+- 📚 Interested in **DataScience, Full-Stack, AI**
 - 🧩 Open to collaborations and learning together
 
 ---
