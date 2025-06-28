@@ -27,16 +27,6 @@
 
 ---
 
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabin-09&theme=graywhite" alt="GitHub Streak" height="180" />
-</p>
-
----
-
 ## 📫 Connect with me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/prabin-sah)
