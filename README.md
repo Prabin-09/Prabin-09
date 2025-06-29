@@ -1,6 +1,5 @@
 
-<h3 align="center">Hi 👋, I'm Prabin Sah</h3>
-<p align="center">A Computer Engineering Student Learning Full-Stack & AI 🚀</p>
+<h3 align="left">Hi 👋, I'm Prabin Sah</h3>
 
 ---
 
