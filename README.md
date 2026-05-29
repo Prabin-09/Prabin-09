@@ -6,7 +6,6 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Engineering @ Tribhuvan University
-- 🌱 Currently learning **JavaScript, React**
 - 🚀 Building practical projects, documenting my journey publicly
 - 📚 Interested in **DataScience, Full-Stack, AI**
 - 🧩 Open to collaborations and learning together
